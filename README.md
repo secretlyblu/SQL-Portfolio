@@ -1,7 +1,7 @@
 # Diane's SQL-Portfolio
 # Welcome to My SQL & Data Analytics Portfolio
 
-Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, machine learning, and other data analytics courses. Below are a few highlighted projects, including data visualizations I created using Tableau. Feel free to take a look around and reach out if you have any feedback or questions.
+Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, machine learning, and other data analytics courses. Below are a few highlighted projects, including data visualizations I created using Tableau. Feel free to take a look around and [reach out](https://www.linkedin.com/in/Diagordon) if you have any feedback or questions.
 
 ---
 
@@ -13,6 +13,7 @@ Hello, and thanks for stopping by! This repository contains examples of SQL I've
   In this project, I analyzed trends in the top 50 songs of 2021 using SQL. Using pitch-class integer notation, I examined the key and tonality of these songs. Additionally, I joined data from a Hooktheory database to compare the most popular song keys with those most represented in the top Spotify tracks of 2021.
   
 [View Project](#) <!-- Add link to the SQL script or folder -->
+
 ---
 
 ### 2. Predictive Book Ratings Analysis (SQL)
